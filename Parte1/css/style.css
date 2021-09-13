@@ -1,0 +1,31 @@
+img {
+    width: 50%;
+    border-style: double;
+    border-width: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.quote {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.date {
+    font-weight: bold;
+}
+
+body {
+    background-color: bisque;
+}
+
+footer {
+    margin-top: 50px;
+}
